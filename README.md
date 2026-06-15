@@ -10,7 +10,7 @@
 
 🔗 **Live Demo:** [Coming soon — deploy ke domain .my.id]
 
-![screenshot](tampilan web tictactoe.jpeg)
+![screenshot](screenshot.jpeg)
 
 ---
 
